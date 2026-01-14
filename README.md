@@ -1,5 +1,6 @@
-# Databricks-Canadian-Electricity-Pipeline
+# Databricks Canadian Electricity Pipeline
 
+#Project Overview
 This project demonstrates a full data analytics pipeline using Databricks Lakehouse architecture, leveraging Bronze, Silver, and Gold layers to transform raw electricity and emissions datasets into business-ready insights. The [notebook](https://github.com/rodney-sibanda/Databricks-Canadian-Electricity-Pipeline/blob/main/Data%20Cleaning%20Notebook.py) that is included inside of this repository walks through the data cleaning, transformation, and aggregation steps, showcasing how multiple raw datasets can be standardized, joined, and curated into reusable tables that serve as the foundation for analysis and visualization.
 
 
