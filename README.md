@@ -28,5 +28,5 @@ Screenshots of the final dashboard are included below to illustrate the key metr
 ## Screenshots of the Final Dashboard
 <img width="2846" height="1096" alt="image" src="https://github.com/user-attachments/assets/c6fee725-b3b7-4b7f-b5ae-b4cf6a17553c" />
 
-<img width="2825" height="1294" alt="image" src="https://github.com/user-attachments/assets/390e44d2-9152-487f-85c0-402585bfa7e1" />
+<img width="1440" height="667" alt="Screen Shot 2026-01-19 at 4 51 02 PM" src="https://github.com/user-attachments/assets/c3db78f7-5ab1-4872-8608-8c112b487128" />
 
